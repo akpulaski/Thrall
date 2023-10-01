@@ -1191,14 +1191,14 @@ screen confirm(message, yes_action, no_action):
 
     #frame:
 
-       # vbox:
+        # vbox:
             #xalign .5
             #yalign .5
             #spacing 45
 
             #label _(message):
-               # style "confirm_prompt"
-               # xalign 0.5
+                # style "confirm_prompt"
+                # xalign 0.5
 
             #hbox:
                 #xalign 0.5

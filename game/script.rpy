@@ -211,3 +211,7 @@ label go_hexed:
 
     return
 
+#To check if an item in in the inventory use a for loop 
+#   for item in inventoryItems: 
+#       if item == "ItemImLookingFor": 
+#           Do what needs to be done such as so option, etc. 
